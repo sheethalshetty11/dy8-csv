@@ -1,0 +1,9 @@
+2026-06-24 10:00:00 - INFO - Application started
+2026-06-24 10:00:00 - INFO - Loaded 5 employees from employees.csv
+2026-06-24 10:00:00 - INFO - Report generated successfully
+2026-06-24 10:00:00 - INFO - Application exited
+
+2026-06-24 10:05:00 - INFO - Application started
+2026-06-24 10:05:00 - INFO - Loaded 5 employees from employees.csv
+2026-06-24 10:05:00 - INFO - Report generated successfully
+2026-06-24 10:05:00 - INFO - Application exited
