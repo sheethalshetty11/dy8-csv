@@ -23,3 +23,7 @@
 2026-06-24 23:30:08,532 - INFO - Loaded 5 employees from employees.csv
 2026-06-24 23:30:08,534 - INFO - Report generated successfully
 2026-06-24 23:30:08,535 - INFO - Application exited
+2026-06-24 23:36:05,712 - INFO - Application started
+2026-06-24 23:36:05,714 - INFO - Loaded 5 employees from employees.csv
+2026-06-24 23:36:05,716 - INFO - Report generated successfully
+2026-06-24 23:36:05,717 - INFO - Application exited
